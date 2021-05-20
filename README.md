@@ -172,7 +172,16 @@ to which many replied with "I'm Traveler ____" (four numbers follow), including 
 > I'm Traveler 6383
   Welcome to the 21st!
 
-## 3. u/throawaylien's prediction
+
+## 3. thetraveler3649.com
+The domain thetraveler3649.com was registered on `April 20 2021`, a day before/on the same day that u/TheTraveler3649 broke silence after 7 years.
+
+https://whois.domaintools.com/thetraveler3649.com
+
+https://www.thesiterank.com/stats/?domain=thetraveler3649.com
+
+
+## 4. u/throawaylien's prediction
 The throaway account [u/throawaylien](https://old.reddit.com/user/throawaylien) was created on `Nov 20 2013`, a few months before u/TheTraveler3649.
 
 u/throawaylien made [a comment](https://old.reddit.com/r/AskReddit/comments/1r034d/alien_abductees_of_reddit_or_people_who_have/cdikpd2/) talking about experiences with alien abduction.
@@ -214,7 +223,7 @@ u/throawaylien claimed aliens would make contact with earth on either 8th or 18t
 > The whole "program" or whatever they call it is going to change in July, 2021. I think they said 8th, but it could also have been 18th, I wasn't hearing very well. They weren't trying to intimidate me or even to warn me, so I don't think we have anything to worry about.
 
 
-### Transfer of 175 million IP addresses to obscure company
+### 5. Transfer of 175 million IP addresses to obscure company
 In `Clarification`, u/TheTraveler3649 had revealed
 > A large chunk of the Internet is being allocated to allow for access to The Link*. It is there that you will see all the videos and images for the entire history of your planet and solar system. As well as access to the knowledge base for your current evolutionary and technical level. We believe humanity now possesses the capacity to understand its place and context in this galaxy.
 
@@ -226,18 +235,11 @@ https://www.washingtonpost.com/technology/2021/04/24/pentagon-internet-address-m
 
 > The entities controlling the largest swaths of the Internet generally are telecommunications giants whose names are familiar: AT&T, China Telecom, Verizon. But now at the top of the list was Global Resource Systems — a company founded only in September that has no publicly reported federal contracts and no obvious public-facing website.
 
-## thetraveler3649.com
-The domain thetraveler3649.com was registered on `April 20 2021`, a day before/on the same day that u/TheTraveler3649 broke silence after 7 years.
 
-https://whois.domaintools.com/thetraveler3649.com
-
-https://www.thesiterank.com/stats/?domain=thetraveler3649.com
-
-
-## u/TheLink2021
+## 6. u/TheLink2021
 The reddit account [u/TheLink2021](https://old.reddit.com/user/TheLink2021/) was created on May 13 16:33:23 2021 UTC
 
-It is not clear if this account is genuinely related to u/TheTraveler3649.
+It is not clear if this account is genuinely related to u/TheTraveler3649 (probably a larp).
 
 u/TheLink2021's posts include
 
@@ -251,16 +253,10 @@ Cheers.
 20210523
 CLARIFICATION: NOT RELATED TO THE EVENT*.
 
-## UAPs
-Work in progress!
 
-## Upcoming pentagon report
-Work in progress!
+# Hard to digest
 
-## Intelligent aquatic life
-Work in progress!
-
-# Hard to digest information
+Information revealed by u/TheTraveler3649 that is possibly at odds with current human understanding and/or hard to accept.
 
 ## Billions of years in the waiting
 In `Orientation`, u/TheTraveler3649 reveals that one of the "publications coming late this summer" is
@@ -274,14 +270,6 @@ In the now deleted post, u/TheTraveler3649 had revealed
 
 Further reading: [Verneshot](https://en.wikipedia.org/wiki/Verneshot)
 
-## White holes
-In a series of comments ([1](https://old.reddit.com/user/TheTraveler3649/comments/n6jv4i/let_me_clarify_a_few_things/gxsidpz/), [2](https://old.reddit.com/user/TheTraveler3649/comments/n6jv4i/let_me_clarify_a_few_things/gy1xdvf/)), u/TheTraveler3649 reveals
-> Advanced artificially intelligent camera drones. They use a micro-singularity a (mini-black hole) for data storage, power, and propulsion. They have virtually unlimited data storage capacity.
-
-> You'll soon ~~be introduced~~ become more familiar with the idea of the [white hole](https://en.wikipedia.org/wiki/White_hole).
-
-The [wikipedia page for whiteholes](https://en.wikipedia.org/wiki/White_hole) is directly referenced.
-
 ## Life from venus was brought to earth
 In `Orientation`, u/TheTraveler3649's "small list of notable events" includes 
 > The Great Flood: Relocating the Venusian's to Earth
@@ -292,3 +280,12 @@ In `Orientation`, u/TheTraveler3649 had revealed humans are not the only intelli
 > The Aquatics*: The first intelligent species
 
 > I could sit next to you on a bus, and you'd never know - but that's just me. There are different tiers to The Union\;* though, the "more advanced" a civilization becomes, the more it wants to be left alone. One of you hit the proverbial nail-on-the-head with The Aquatics\*.
+
+
+## White holes
+In a series of comments ([1](https://old.reddit.com/user/TheTraveler3649/comments/n6jv4i/let_me_clarify_a_few_things/gxsidpz/), [2](https://old.reddit.com/user/TheTraveler3649/comments/n6jv4i/let_me_clarify_a_few_things/gy1xdvf/)), u/TheTraveler3649 reveals
+> Advanced artificially intelligent camera drones. They use a micro-singularity a (mini-black hole) for data storage, power, and propulsion. They have virtually unlimited data storage capacity.
+
+> You'll soon ~~be introduced~~ become more familiar with the idea of the [white hole](https://en.wikipedia.org/wiki/White_hole).
+
+The [wikipedia page for whiteholes](https://en.wikipedia.org/wiki/White_hole) is directly referenced.

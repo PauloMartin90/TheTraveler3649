@@ -1,3 +1,7 @@
+An effort to uncover the mystery of u/TheTraveler3649. Discord sever: https://discord.gg/7WPcv6HPTa
+
+Feel free to contribute, keeping styling constant.
+
 # Timeline of u/TheTraveler3649
 `May 8 03:07:54 2014 UTC` The reddit account [u/TheTraveler3649](https://old.reddit.com/user/TheTraveler3649) is created.
 

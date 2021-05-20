@@ -4,9 +4,9 @@ This is an ongoing effort to uncover the mystery of u/TheTraveler3649. Feel free
 Our discord sever: https://discord.gg/7WPcv6HPTa
 
 # Timeline of u/TheTraveler3649
-`May 8 03:07:54 2014 UTC` The reddit account [u/TheTraveler3649](https://old.reddit.com/user/TheTraveler3649) is created.
+`May 8 03:07:54 2014 UTC` the reddit account [u/TheTraveler3649](https://old.reddit.com/user/TheTraveler3649) is created.
 
-`May 8 03:22:26 2014 UTC` The subreddit [r/TrueHistoryOfEarth](https://old.reddit.com/r/TrueHistoryOfEarth) is created.
+`May 8 03:22:26 2014 UTC` the subreddit [r/TrueHistoryOfEarth](https://old.reddit.com/r/TrueHistoryOfEarth) is created.
 
 `May 8 02:23:15 2014 UTC` posts and then deletes post on r/TrueHistoryOfEarth, ["How the dinosaurs really went extinct."](http://old.reddit.com/r/TrueHistoryOfEarth/comments/250g53/how_the_dinosaurs_really_went_extinct/).
   
@@ -95,7 +95,7 @@ I look forward to guiding you along this new journey!
 ```
 </details>
 
-`May 06 22:43:01 2021 UTC` u/TheTraveler3649 makes a self post titled ["Let me clarify a few things"](https://old.reddit.com/user/TheTraveler3649/comments/n6jv4i/let_me_clarify_a_few_things/), hereinafter referred to as `Clarification`.
+`May 06 22:43:01 2021 UTC` makes a self post, ["Let me clarify a few things"](https://old.reddit.com/user/TheTraveler3649/comments/n6jv4i/let_me_clarify_a_few_things/), hereinafter referred to as `Clarification`.
 <details>
 <summary>Reveal post</summary>
   
@@ -132,7 +132,7 @@ Why look back when you can go forward?
 
 # Current leads
 
-## Scientific publications
+## 1. Scientific publications
 In `Orientation`, u/TheTraveler3649 had said
 > Here are just a few of the items on the list for publications coming late this summer:  
   THE EARLY SOL SYSTEM  
@@ -154,7 +154,7 @@ On the same day, `27 Apr 18:00:01 2021 UTC` a paper titled  ["A diffuse core in 
 In May, another paper titled  ["Fungi on Mars? Evidence of Growth and Behavior From Sequential Images"](https://www.researchgate.net/publication/351252619_Fungi_on_Mars_Evidence_of_Growth_and_Behavior_From_Sequential_Images) is published.
 > Fungi thrive in radiation intense environments. Sequential photos document that fungus-like Martian specimens emerge from the soil and increase in size, including those resembling puffballs (Basidiomycota). After obliteration of spherical specimens by the rover wheels, new sphericals--some with stalks--appeared atop the crests of old tracks.
 
-## Striking similarities to the tv show "Travelers"
+## 2. Striking similarities to the tv show "Travelers"
 [Travelers (TV series)](https://www.google.com/search?q=travelers+tv+series)
 
 Quoting [this comment](https://old.reddit.com/r/aliens/comments/nfdtkr/im_kinda_baffled_by_traveler3649s_roll_out_plan/gylj8fh/) by [u/dnh52](https://old.reddit.com/user/dnh52)
@@ -172,7 +172,7 @@ to which many replied with "I'm Traveler ____" (four numbers follow), including 
 > I'm Traveler 6383
   Welcome to the 21st!
 
-## u/throawaylien
+## 3. u/throawaylien's prediction
 The throaway account [u/throawaylien](https://old.reddit.com/user/throawaylien) was created on `Nov 20 2013`, a few months before u/TheTraveler3649.
 
 u/throawaylien made [a comment](https://old.reddit.com/r/AskReddit/comments/1r034d/alien_abductees_of_reddit_or_people_who_have/cdikpd2/) talking about experiences with alien abduction.
@@ -221,9 +221,15 @@ In `Clarification`, u/TheTraveler3649 had revealed
 https://arstechnica.com/information-technology/2021/04/pentagon-explains-odd-transfer-of-175-million-ip-addresses-to-obscure-company/
 > Literally three minutes before Joe Biden became president, a company called Global Resource Systems LLC "discreetly announced to the world's computer networks a startling development: It now was managing a huge unused swath of the Internet that, for several decades, had been owned by the US military
 
+https://www.washingtonpost.com/technology/2021/04/24/pentagon-internet-address-mystery/
+> The company, Global Resource Systems LLC, kept adding to its zone of control. Soon it had claimed 56 million IP addresses owned by the Pentagon. Three months later, the total was nearly 175 million. That’s almost 6 percent of a coveted traditional section of Internet real estate — called IPv4 — where such large chunks are worth billions of dollars on the open market.
+
+> The entities controlling the largest swaths of the Internet generally are telecommunications giants whose names are familiar: AT&T, China Telecom, Verizon. But now at the top of the list was Global Resource Systems — a company founded only in September that has no publicly reported federal contracts and no obvious public-facing website.
 
 ## thetraveler3649.com
-The domain thetraveler3649.com was registered on `April 21`, the same day u/TheTraveler3649 first posted after 7 years.
+The domain thetraveler3649.com was registered on `April 20 2021`, a day before/on the same day that u/TheTraveler3649 broke silence after 7 years.
+
+https://whois.domaintools.com/thetraveler3649.com
 
 https://www.thesiterank.com/stats/?domain=thetraveler3649.com
 

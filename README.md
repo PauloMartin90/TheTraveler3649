@@ -265,6 +265,8 @@ which could refer to the birth of our sun. This would suggest that his species h
 In the now deleted post, u/TheTraveler3649 had revealed
 > The super volcano in your present day Yosemite National Park, mildly erupted. During this eruption, a large chuck of rock was launched into sub-orbit, before crashing down into what would become the Yucatan Peninsula. The water levels were still very low from polar ice, that the rock chuck (Es-189-11-ELE-2322) did not hit water and it on a beach, ejecting dust and water into the atmosphere. 4 years later, combined with the gas cloud and ash from the volcano, the dinosaurs died out.
 
+Further reading [Verneshot](https://en.wikipedia.org/wiki/Verneshot)
+
 ## White holes
 In a series of comments ([1](https://old.reddit.com/user/TheTraveler3649/comments/n6jv4i/let_me_clarify_a_few_things/gxsidpz/), [2](https://old.reddit.com/user/TheTraveler3649/comments/n6jv4i/let_me_clarify_a_few_things/gy1xdvf/)), u/TheTraveler3649 reveals
 > Advanced artificially intelligent camera drones. They use a micro-singularity a (mini-black hole) for data storage, power, and propulsion. They have virtually unlimited data storage capacity.

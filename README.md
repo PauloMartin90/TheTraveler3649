@@ -221,6 +221,11 @@ https://arstechnica.com/information-technology/2021/04/pentagon-explains-odd-tra
 > Literally three minutes before Joe Biden became president, a company called Global Resource Systems LLC "discreetly announced to the world's computer networks a startling development: It now was managing a huge unused swath of the Internet that, for several decades, had been owned by the US military
 
 
+## thetraveler3649.com
+The domain thetraveler3649.com was registered on April 21
+
+https://www.thesiterank.com/stats/?domain=thetraveler3649.com
+
 ## UAPs
 Work in progress!
 

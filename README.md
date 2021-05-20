@@ -241,6 +241,9 @@ https://www.washingtonpost.com/technology/2021/04/24/pentagon-internet-address-m
 
 > The entities controlling the largest swaths of the Internet generally are telecommunications giants whose names are familiar: AT&T, China Telecom, Verizon. But now at the top of the list was Global Resource Systems — a company founded only in September that has no publicly reported federal contracts and no obvious public-facing website.
 
+https://bgpview.io/asn/8003
+
+
 
 ## 6. u/TheLink2021
 The reddit account [u/TheLink2021](https://old.reddit.com/user/TheLink2021/) was created on May 13 16:33:23 2021 UTC

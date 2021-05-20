@@ -1,6 +1,7 @@
-An effort to uncover the mystery of u/TheTraveler3649. Discord sever: https://discord.gg/7WPcv6HPTa
+# TheTraveler3649
+This is an ongoing effort to uncover the mystery of u/TheTraveler3649. Feel free to contribute!
 
-Feel free to contribute, keeping styling consistent.
+Our discord sever: https://discord.gg/7WPcv6HPTa
 
 # Timeline of u/TheTraveler3649
 `May 8 03:07:54 2014 UTC` The reddit account [u/TheTraveler3649](https://old.reddit.com/user/TheTraveler3649) is created.
@@ -222,7 +223,7 @@ https://arstechnica.com/information-technology/2021/04/pentagon-explains-odd-tra
 
 
 ## thetraveler3649.com
-The domain thetraveler3649.com was registered on April 21
+The domain thetraveler3649.com was registered on `April 21`, the same day u/TheTraveler3649 first posted after 7 years.
 
 https://www.thesiterank.com/stats/?domain=thetraveler3649.com
 
@@ -259,13 +260,13 @@ Work in progress!
 In `Orientation`, u/TheTraveler3649 reveals that one of the "publications coming late this summer" is
 > No longer in the shadows: The first true light from your sun
 
-which could refer to the birth of our sun. This would suggest that his species has been watching our solar system for billions of years. How did they know intelligent life would arise here?
+which could refer to the birth of our sun. Have they been watching our solar system for billions of years? How did they know intelligent life would arise here?
 
 ## A volcano launched rocks into sub orbit and caused the mass extinction
 In the now deleted post, u/TheTraveler3649 had revealed
 > The super volcano in your present day Yosemite National Park, mildly erupted. During this eruption, a large chuck of rock was launched into sub-orbit, before crashing down into what would become the Yucatan Peninsula. The water levels were still very low from polar ice, that the rock chuck (Es-189-11-ELE-2322) did not hit water and it on a beach, ejecting dust and water into the atmosphere. 4 years later, combined with the gas cloud and ash from the volcano, the dinosaurs died out.
 
-Further reading [Verneshot](https://en.wikipedia.org/wiki/Verneshot)
+Further reading: [Verneshot](https://en.wikipedia.org/wiki/Verneshot)
 
 ## White holes
 In a series of comments ([1](https://old.reddit.com/user/TheTraveler3649/comments/n6jv4i/let_me_clarify_a_few_things/gxsidpz/), [2](https://old.reddit.com/user/TheTraveler3649/comments/n6jv4i/let_me_clarify_a_few_things/gy1xdvf/)), u/TheTraveler3649 reveals

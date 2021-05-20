@@ -1,6 +1,6 @@
 An effort to uncover the mystery of u/TheTraveler3649. Discord sever: https://discord.gg/7WPcv6HPTa
 
-Feel free to contribute, keeping styling constant.
+Feel free to contribute, keeping styling consistent.
 
 # Timeline of u/TheTraveler3649
 `May 8 03:07:54 2014 UTC` The reddit account [u/TheTraveler3649](https://old.reddit.com/user/TheTraveler3649) is created.
@@ -225,6 +225,24 @@ https://arstechnica.com/information-technology/2021/04/pentagon-explains-odd-tra
 The domain thetraveler3649.com was registered on April 21
 
 https://www.thesiterank.com/stats/?domain=thetraveler3649.com
+
+
+## u/TheLink2021
+The reddit account [u/TheLink2021](https://old.reddit.com/user/TheLink2021/) was created on May 13 16:33:23 2021 UTC
+
+It is not clear if this account is genuinely related to u/TheTraveler3649.
+
+u/TheLink2021's posts include
+
+> Adam* is not currently on Earth.
+A new and important post is to be published by him the day he returns (June 8th).
+I am a person who works with him and I am responsible for the launch of The Link*.
+Finally, with the approval of Adam* and to strengthen my credibility, I inform you that an important event will take place tomorrow morning (May 21st).
+Cheers.
+
+> Early access code (approved by Adam\*):
+20210523
+CLARIFICATION: NOT RELATED TO THE EVENT*.
 
 ## UAPs
 Work in progress!

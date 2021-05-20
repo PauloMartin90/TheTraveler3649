@@ -132,7 +132,7 @@ Why look back when you can go forward?
 
 # Current leads
 
-## 1. Scientific publications
+## 1. Predating scientific publications
 In `Orientation`, u/TheTraveler3649 had said
 > Here are just a few of the items on the list for publications coming late this summer:  
   THE EARLY SOL SYSTEM  
@@ -154,6 +154,7 @@ On the same day, `27 Apr 18:00:01 2021 UTC` a paper titled  ["A diffuse core in 
 In May, another paper titled  ["Fungi on Mars? Evidence of Growth and Behavior From Sequential Images"](https://www.researchgate.net/publication/351252619_Fungi_on_Mars_Evidence_of_Growth_and_Behavior_From_Sequential_Images) is published.
 > Fungi thrive in radiation intense environments. Sequential photos document that fungus-like Martian specimens emerge from the soil and increase in size, including those resembling puffballs (Basidiomycota). After obliteration of spherical specimens by the rover wheels, new sphericals--some with stalks--appeared atop the crests of old tracks.
 
+
 ## 2. Striking similarities to TV series "Stargate SG-1" and "Travelers"
 [Stargate SG-1 (TV series)](https://www.google.com/search?q=stargate+sg-1+tv+series)
 
@@ -167,14 +168,14 @@ This is pretty much identical to the plot of Stargate SG-1 season 7 episode 5 wh
 
 [Brad Wright](https://www.imdb.com/name/nm0942249/) is one of the creators of the show [Stargate SG-1](https://www.imdb.com/title/tt0118480). He is also the creator of the show [Travelers](https://www.imdb.com/title/tt5651844/).
 
-Brad Wright's twitter handle is [@bradtravelers](https://twitter.com/bradtravelers) and he [once tweeted](https://twitter.com/bradtravelers/status/1075842796634890240) this
+Brad Wright's twitter handle is [@bradtravelers](https://twitter.com/bradtravelers) and he once tweeted [this](https://twitter.com/bradtravelers/status/1075842796634890240)
 > For those requesting their own traveler number, match the first four letters of your name with the corresponding letters on your telephone keypad. I'm 2723! #WeAreAllTravelers @netflix @TRVLRSseries travelersseason3 #thisideacamefromAshleyParkHiAshley!
 
 to which many replied with "I'm Traveler ____" (four numbers follow), including [@netflix](https://twitter.com/netflix/status/1075914899824373760)
 > I'm Traveler 6383
   Welcome to the 21st!
 
-However, the reddit acount u/TheTraveler3649 was created before the tv series "Travelers" started in 2016. Shows can take years from conception to production though, so we cannot yet eliminate this lead.
+The reddit acount u/TheTraveler3649 was created before the tv series "Travelers" started in 2016, but shows can take years from conception to production so we cannot yet eliminate this lead.
 
 
 ## 3. thetraveler3649.com
@@ -257,6 +258,10 @@ Cheers.
 20210523
 CLARIFICATION: NOT RELATED TO THE EVENT*.
 
+In particular, [one comment](http://old.reddit.com/user/TheLink2021/comments/ngy7fa/adams_return_date_is_june_8th/gytyw64) stood out
+> I can share it's Elizondo-related and it's a negative development.
+
+u/TheTraveler3649 never referenced any present day person or country, which makes it unlikely u/TheLink2021 is genuine.
 
 # Hard to digest
 

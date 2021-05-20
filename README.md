@@ -223,7 +223,7 @@ u/throawaylien claimed aliens would make contact with earth on either 8th or 18t
 > The whole "program" or whatever they call it is going to change in July, 2021. I think they said 8th, but it could also have been 18th, I wasn't hearing very well. They weren't trying to intimidate me or even to warn me, so I don't think we have anything to worry about.
 
 
-### 5. Transfer of 175 million IP addresses to obscure company
+## 5. Transfer of 175 million IP addresses to obscure company
 In `Clarification`, u/TheTraveler3649 had revealed
 > A large chunk of the Internet is being allocated to allow for access to The Link*. It is there that you will see all the videos and images for the entire history of your planet and solar system. As well as access to the knowledge base for your current evolutionary and technical level. We believe humanity now possesses the capacity to understand its place and context in this galaxy.
 
@@ -258,23 +258,7 @@ CLARIFICATION: NOT RELATED TO THE EVENT*.
 
 Information revealed by u/TheTraveler3649 that is possibly at odds with current human understanding and/or hard to accept.
 
-## Billions of years in the waiting
-In `Orientation`, u/TheTraveler3649 reveals that one of the "publications coming late this summer" is
-> No longer in the shadows: The first true light from your sun
-
-which could refer to the birth of our sun. Have they been watching our solar system for billions of years? How did they know intelligent life would arise here?
-
-## A volcano launched rocks into sub orbit and caused the mass extinction
-In the now deleted post, u/TheTraveler3649 had revealed
-> The super volcano in your present day Yosemite National Park, mildly erupted. During this eruption, a large chuck of rock was launched into sub-orbit, before crashing down into what would become the Yucatan Peninsula. The water levels were still very low from polar ice, that the rock chuck (Es-189-11-ELE-2322) did not hit water and it on a beach, ejecting dust and water into the atmosphere. 4 years later, combined with the gas cloud and ash from the volcano, the dinosaurs died out.
-
-Further reading: [Verneshot](https://en.wikipedia.org/wiki/Verneshot)
-
-## Life from venus was brought to earth
-In `Orientation`, u/TheTraveler3649's "small list of notable events" includes 
-> The Great Flood: Relocating the Venusian's to Earth
-
-## Earth has two intelligent species
+## 1. Earth has two intelligent species
 In `Orientation`, u/TheTraveler3649 had revealed humans are not the only intelligent species on earth. In `Clarification`, u/TheTraveler3649 further reveals that they may be hiding from humans.
 
 > The Aquatics*: The first intelligent species
@@ -282,7 +266,26 @@ In `Orientation`, u/TheTraveler3649 had revealed humans are not the only intelli
 > I could sit next to you on a bus, and you'd never know - but that's just me. There are different tiers to The Union\;* though, the "more advanced" a civilization becomes, the more it wants to be left alone. One of you hit the proverbial nail-on-the-head with The Aquatics\*.
 
 
-## White holes
+## 2. Life from venus was brought to earth
+In `Orientation`, u/TheTraveler3649's "small list of notable events" includes 
+> The Great Flood: Relocating the Venusian's to Earth
+
+
+## 3. Billions of years in the waiting
+In `Orientation`, u/TheTraveler3649 reveals that one of the "publications coming late this summer" is
+> No longer in the shadows: The first true light from your sun
+
+which could refer to the birth of our sun. Have they been watching our solar system for billions of years? How did they know intelligent life would arise here?
+
+
+## 4. A volcano launched rocks into sub orbit and caused the mass extinction
+In the now deleted post, u/TheTraveler3649 had revealed
+> The super volcano in your present day Yosemite National Park, mildly erupted. During this eruption, a large chuck of rock was launched into sub-orbit, before crashing down into what would become the Yucatan Peninsula. The water levels were still very low from polar ice, that the rock chuck (Es-189-11-ELE-2322) did not hit water and it on a beach, ejecting dust and water into the atmosphere. 4 years later, combined with the gas cloud and ash from the volcano, the dinosaurs died out.
+
+Further reading: [Verneshot](https://en.wikipedia.org/wiki/Verneshot)
+
+
+## 5. White holes
 In a series of comments ([1](https://old.reddit.com/user/TheTraveler3649/comments/n6jv4i/let_me_clarify_a_few_things/gxsidpz/), [2](https://old.reddit.com/user/TheTraveler3649/comments/n6jv4i/let_me_clarify_a_few_things/gy1xdvf/)), u/TheTraveler3649 reveals
 > Advanced artificially intelligent camera drones. They use a micro-singularity a (mini-black hole) for data storage, power, and propulsion. They have virtually unlimited data storage capacity.
 

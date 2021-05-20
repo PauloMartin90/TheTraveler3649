@@ -154,7 +154,9 @@ On the same day, `27 Apr 18:00:01 2021 UTC` a paper titled  ["A diffuse core in 
 In May, another paper titled  ["Fungi on Mars? Evidence of Growth and Behavior From Sequential Images"](https://www.researchgate.net/publication/351252619_Fungi_on_Mars_Evidence_of_Growth_and_Behavior_From_Sequential_Images) is published.
 > Fungi thrive in radiation intense environments. Sequential photos document that fungus-like Martian specimens emerge from the soil and increase in size, including those resembling puffballs (Basidiomycota). After obliteration of spherical specimens by the rover wheels, new sphericals--some with stalks--appeared atop the crests of old tracks.
 
-## 2. Striking similarities to the tv shows "Stargate SG-1" and "Travelers"
+## 2. Striking similarities to TV series "Stargate SG-1" and "Travelers"
+[Stargate SG-1 TV series](https://www.google.com/search?q=stargate+sg-1+tv+series)
+
 [Travelers (TV series)](https://www.google.com/search?q=travelers+tv+series)
 
 Quoting [this comment](https://old.reddit.com/r/aliens/comments/nfdtkr/im_kinda_baffled_by_traveler3649s_roll_out_plan/gylj8fh/) by [u/dnh52](https://old.reddit.com/user/dnh52)

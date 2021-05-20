@@ -1,7 +1,13 @@
 # TheTraveler3649
-This is an ongoing effort to uncover the mystery of u/TheTraveler3649. Feel free to contribute!
+This is an ongoing effort to uncover the mystery of u/TheTraveler3649.
 
 Our discord sever: https://discord.gg/7WPcv6HPTa
+
+## Feel free to contribute!
+
+Go [here](https://github.com/Infinitifall/TheTraveler3649/blob/main/README.md) and click on the pencil icon on the right hand side to edit.
+
+Here's a handy Markdown cheat sheet: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 # Timeline of u/TheTraveler3649
 `May 8 03:07:54 2014 UTC` the reddit account [u/TheTraveler3649](https://old.reddit.com/user/TheTraveler3649) is created.

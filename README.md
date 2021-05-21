@@ -255,9 +255,9 @@ See also: https://bgpview.io/asn/8003
 
 
 ## 6. [u/TheLink2021](https://old.reddit.com/user/TheLink2021/)
-The reddit account [u/TheLink2021](https://old.reddit.com/user/TheLink2021/) was created on May 13 16:33:23 2021 UTC
+The reddit account [u/TheLink2021](https://old.reddit.com/user/TheLink2021/) was created on `May 13 16:33:23 2021 UTC`.
 
-It is not clear if this account is genuinely related to u/TheTraveler3649. u/TheLink2021's posts include
+u/TheLink2021's posts include
 
 > Adam* is not currently on Earth.
 A new and important post is to be published by him the day he returns (June 8th).
@@ -269,11 +269,14 @@ Cheers.
 20210523
 CLARIFICATION: NOT RELATED TO THE EVENT*.
 
-In particular, [one comment](http://old.reddit.com/user/TheLink2021/comments/ngy7fa/adams_return_date_is_june_8th/gytyw64) stands out
+In particular, [one comment](http://old.reddit.com/user/TheLink2021/comments/ngy7fa/adams_return_date_is_june_8th/gytyw64) stands out for mentioning a present day person
 
 > I can share it's Elizondo-related and it's a negative development.
 
-u/TheTraveler3649 never referenced any present day person or country, which makes it unlikely u/TheLink2021 is genuine.
+Reasons to believe u/TheLink2021 is not a genuinely related to u/TheTraveler3649
+- u/TheTraveler3649 never referenced present day people or countried, unlike u/TheLink2021 who referenced Elizondo
+- u/TheLink2021's posts contain formatting errors
+- Activity on u/TheTraveler3649 takes place between `22:00` and `04:00 UTC` while u/TheLink2021 was created outside this time window.
 
 
 # Hard to digest

@@ -38,6 +38,7 @@ Title: It's almost time.
 
 Content: You'll soon know more.
 ```
+
 </details>
   
 `April 27 23:31:37 2021 UTC` posts on r/TrueHistoryOfEarth, ["Orientation"](https://old.reddit.com/r/TrueHistoryOfEarth/comments/n01mzm/orientation/), hereinafter referred to as `Orientation`.
@@ -94,9 +95,11 @@ I look forward to guiding you along this new journey!
 
 (\) I can't reveal the real name yet.*
 ```
+
 </details>
 
 `May 06 22:43:01 2021 UTC` makes a self post, ["Let me clarify a few things"](https://old.reddit.com/user/TheTraveler3649/comments/n6jv4i/let_me_clarify_a_few_things/), hereinafter referred to as `Clarification`.
+
 <details>
 <summary>Reveal post</summary>
   
@@ -128,6 +131,7 @@ Trust me when I say, most of you will be far more interested in The Link* than l
 
 Why look back when you can go forward?
 ```
+
 </details>
 
 
@@ -165,7 +169,6 @@ Quoting [this comment](https://old.reddit.com/r/aliens/comments/nfdtkr/im_kinda_
 > Ok so I was looking through that guy’s posts, and I saw a pretty big red flag with this one
 This is pretty much identical to the plot of Stargate SG-1 season 7 episode 5 which aired July 11, 2003. The main characters in this episode run into a civilization that has developed technology called The Link. It’s a neural interface device they attach to the side of their head, and it allows them to access a database that has information of their entire history. [Here’s the wiki page](https://stargate.fandom.com/wiki/Link). And here’s a quote from the episode “The link contains the sum total of our knowledge and wisdom. All our history, our culture, our science ... everything”. So either the Stargate series is a form of soft disclosure, or that guy is a really big fan of the show. And frankly, I’m not sure which is worse lol. Because in that episode, The Link was actively messing with people’s heads and altering their memories. And in order to preserve the civilization, The Link was basically hijacking people’s minds and getting them to commit suicide when the population became too large for the level of resources available
 
-
 [Brad Wright](https://www.imdb.com/name/nm0942249/) is one of the creators of the show [Stargate SG-1](https://www.imdb.com/title/tt0118480). He is also the creator of the show [Travelers](https://www.imdb.com/title/tt5651844/).
 
 Several similarities exist between the [plot of "Travelers"](https://en.wikipedia.org/wiki/Travelers_(TV_series)#Premise) and u/TheTraveler3649's story
@@ -190,6 +193,103 @@ Update: The reddit user [u/nyxschance](https://old.reddit.com/user/nyxschance/) 
 The domain thetraveler3649.com is registered on `April 20 2021`, a day before u/TheTraveler3649 breaks his silence after 7 years.
 
 https://whois.domaintools.com/thetraveler3649.com
+
+<details>
+<summary>Whois Record</summary>
+
+```
+Domain Name: THETRAVELER3649.COM
+Registry Domain ID: 2606576651_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.bluehost.com
+Registrar URL: http://www.bluehost.com/
+Updated Date: 2021-04-21T03:31:12Z
+Creation Date: 2021-04-21T03:31:12Z
+Registrar Registration Expiration Date: 2022-04-21T03:31:12Z
+Registrar: FastDomain Inc.
+Registrar IANA ID: 1154
+Registrar Abuse Contact Email: https://reversewhois.domaintools.com/?email=26e33cdfccb08887943dc54a9f29887c
+Registrar Abuse Contact Phone: +1.8017659400
+Reseller: BlueHost.Com
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: DOMAIN PRIVACY SERVICE FBO REGISTRANT
+Registrant Organization: THE ENDURANCE INTERNATIONAL GROUP, INC.
+Registrant Street: 10 CORPORATE DR, STE 300  
+Registrant City: BURLINGTON
+Registrant State/Province: MASSACHUSETTS
+Registrant Postal Code: 01803
+Registrant Country: US
+Registrant Phone: +1.8017659400
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: https://reversewhois.domaintools.com/?email=2b88a62aef5d497861d1cd3caf5447ad
+Registry Admin ID: 
+Admin Name: DOMAIN PRIVACY SERVICE FBO REGISTRANT
+Admin Organization: THE ENDURANCE INTERNATIONAL GROUP, INC.
+Admin Street: 10 CORPORATE DR, STE 300  
+Admin City: BURLINGTON
+Admin State/Province: MASSACHUSETTS
+Admin Postal Code: 01803
+Admin Country: US
+Admin Phone: +1.8017659400
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: https://reversewhois.domaintools.com/?email=2b88a62aef5d497861d1cd3caf5447ad
+Registry Tech ID: 
+Tech Name: DOMAIN PRIVACY SERVICE FBO REGISTRANT
+Tech Organization: THE ENDURANCE INTERNATIONAL GROUP, INC.
+Tech Street: 10 CORPORATE DR, STE 300  
+Tech City: BURLINGTON
+Tech State/Province: MASSACHUSETTS
+Tech Postal Code: 01803
+Tech Country: US
+Tech Phone: +1.8017659400
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: https://reversewhois.domaintools.com/?email=2b88a62aef5d497861d1cd3caf5447ad
+Name Server: NS1.BLUEHOST.COM
+Name Server: NS2.BLUEHOST.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+```
+
+```
+Domain Profile
+Registrant  DOMAIN PRIVACY SERVICE FBO REGISTRANT
+Registrant Org  THE ENDURANCE INTERNATIONAL GROUP, INC.
+Registrant Country  us
+Registrar FastDomain Inc.
+IANA ID:  1154
+URL: http://www.bluehost.com/,http://www.fastdomain.com
+Whois Server: whois.bluehost.com
+Registrar Status  clientTransferProhibited
+Dates 30 days old
+Created on 2021-04-20
+Expires on 2022-04-20
+Updated on 2021-04-20
+Name Servers  NS1.BLUEHOST.COM (has 2,695,665 domains)
+NS2.BLUEHOST.COM (has 2,695,665 domains)
+Tech Contact  DOMAIN PRIVACY SERVICE FBO REGISTRANT
+THE ENDURANCE INTERNATIONAL GROUP, INC.
+10 CORPORATE DR, STE 300,
+BURLINGTON, MASSACHUSETTS, 01803, us
+IP Address  74.220.199.6 - 501,068 other sites hosted on this server
+IP Location United States Of America - Utah - Provo - Unified Layer
+ASN United States Of America AS46606 UNIFIEDLAYER-AS-1, US (registered Oct 24, 2008)
+Domain Status Registered And Active Website
+IP History  1 change on 1 unique IP addresses over 0 years
+Hosting History 1 change on 2 unique name servers over 0 year
+ Website
+Website Title None given.
+Terms 23 (Unique: 20, Linked: 13)
+Images  1 (Alt tags missing: 0)
+Links 7   (Internal: 0, Outbound: 0)
+```
+
+</details>
 
 https://www.thesiterank.com/stats/?domain=thetraveler3649.com
 
@@ -227,6 +327,7 @@ Edit...I changed an accidentally racist bit in there that someone pointed out. C
 
 Edit....No more questions. They are not happy with me. Sorry.
 ```
+
 </details>
   
 u/throawaylien claimed aliens would make contact with earth on either `July 8 2021` or `July 18 2021`
@@ -283,6 +384,7 @@ Reasons to believe u/TheLink2021 is not a genuinely related to u/TheTraveler3649
 
 Information revealed by u/TheTraveler3649 that is possibly at odds with current human understanding and/or hard to accept.
 
+
 ## 1. Earth has two intelligent species
 In `Orientation`, u/TheTraveler3649 claims humans are not the only intelligent species on earth. In `Clarification`, u/TheTraveler3649 further reveals that the Aquatics* may be hiding from humans.
 
@@ -296,21 +398,26 @@ In `Orientation`, u/TheTraveler3649's "small list of notable events" includes
 > The Great Flood: Relocating the Venusian's to Earth
 
 
-## 3. Billions of years in the waiting
+## 3. Reddit and Bluehosting can uncover u/TheTraveler3649
+
+u/TheTraveler3649 trusts Reddit and Bluehost collectively with (at a minimum) his email, IP address and bank account details. Anybody have connections at Reddit or Bluehost HQ?
+
+
+## 4. Billions of years in the waiting
 In `Orientation`, u/TheTraveler3649 reveals that one of the "publications coming late this summer" is
 > No longer in the shadows: The first true light from your sun
 
 which could refer to the birth of our sun. Have they been watching our solar system for billions of years? How did they know intelligent life would arise here?
 
 
-## 4. A volcano launched rocks into sub orbit and caused the mass extinction
+## 5. A volcano launched rocks into sub orbit and caused the mass extinction
 In the now deleted post, u/TheTraveler3649 had revealed
 > The super volcano in your present day Yosemite National Park, mildly erupted. During this eruption, a large chuck of rock was launched into sub-orbit, before crashing down into what would become the Yucatan Peninsula. The water levels were still very low from polar ice, that the rock chuck (Es-189-11-ELE-2322) did not hit water and it on a beach, ejecting dust and water into the atmosphere. 4 years later, combined with the gas cloud and ash from the volcano, the dinosaurs died out.
 
-Further reading: [Verneshot](https://en.wikipedia.org/wiki/Verneshot)
+See also: [Verneshot](https://en.wikipedia.org/wiki/Verneshot)
 
 
-## 5. White holes
+## 6. White holes
 In a series of comments ([1](https://old.reddit.com/user/TheTraveler3649/comments/n6jv4i/let_me_clarify_a_few_things/gxsidpz/), [2](https://old.reddit.com/user/TheTraveler3649/comments/n6jv4i/let_me_clarify_a_few_things/gy1xdvf/)), u/TheTraveler3649 reveals
 > Advanced artificially intelligent camera drones. They use a micro-singularity a (mini-black hole) for data storage, power, and propulsion. They have virtually unlimited data storage capacity.
 
@@ -318,6 +425,3 @@ In a series of comments ([1](https://old.reddit.com/user/TheTraveler3649/comment
 
 The [wikipedia page for whiteholes](https://en.wikipedia.org/wiki/White_hole) is directly referenced.
 
-## 6. Reddit and Bluehosting can uncover u/TheTraveler3649
-
-u/TheTraveler3649 trusts Reddit and Bluehost collectively with (at a minimum) his email, IP address and bank account details. Anybody have connections at Reddit or Bluehost HQ?

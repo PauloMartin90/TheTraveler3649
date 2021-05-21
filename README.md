@@ -59,9 +59,12 @@ This is a complicated process with a lot of moving parts, there is a method to a
 
 The next few months are going to be extremely exciting. New videos, images, and information unlike anything any of you in the history of your species has even dreamed of will begin to emerge into the public realm.
 
+​
+
 Here are just a few of the items on the list for publications coming late this summer:
 
 THE EARLY SOL SYSTEM
+
 No longer in the shadows: The first true light from your sun
 Venus: A planet of pure beauty
 Earth Part 1: The first continent
@@ -73,8 +76,11 @@ Jupiter Part 2: Great Disruptor
 Saturn: A unique core
 Neptune: The unintentional water world
 Uranus: The adopted planet
+​
 
 Here are just a small list of notable events in history that when posted, will be of particular interest.
+
+​
 
 The cradle of life
 The discovery of fire
@@ -164,12 +170,12 @@ In May, a paper titled  ["Fungi on Mars? Evidence of Growth and Behavior From Se
 
 ## 2. Striking similarities to TV series ["Stargate SG-1"](https://www.google.com/search?q=stargate+sg-1+tv+series) and ["Travelers"](https://www.google.com/search?q=travelers+tv+series)
 
-Quoting [this comment](https://old.reddit.com/r/aliens/comments/nfdtkr/im_kinda_baffled_by_traveler3649s_roll_out_plan/gylj8fh/) by [u/dnh52](https://old.reddit.com/user/dnh52)
+Quoting [a comment](https://old.reddit.com/r/aliens/comments/nfdtkr/im_kinda_baffled_by_traveler3649s_roll_out_plan/gylj8fh/) by [u/dnh52](https://old.reddit.com/user/dnh52)
 
 > Ok so I was looking through that guy’s posts, and I saw a pretty big red flag with this one
 This is pretty much identical to the plot of Stargate SG-1 season 7 episode 5 which aired July 11, 2003. The main characters in this episode run into a civilization that has developed technology called The Link. It’s a neural interface device they attach to the side of their head, and it allows them to access a database that has information of their entire history. [Here’s the wiki page](https://stargate.fandom.com/wiki/Link). And here’s a quote from the episode “The link contains the sum total of our knowledge and wisdom. All our history, our culture, our science ... everything”. So either the Stargate series is a form of soft disclosure, or that guy is a really big fan of the show. And frankly, I’m not sure which is worse lol. Because in that episode, The Link was actively messing with people’s heads and altering their memories. And in order to preserve the civilization, The Link was basically hijacking people’s minds and getting them to commit suicide when the population became too large for the level of resources available
 
-[Brad Wright](https://www.imdb.com/name/nm0942249/) is one of the creators of the show [Stargate SG-1](https://www.imdb.com/title/tt0118480). He is also the creator of the show [Travelers](https://www.imdb.com/title/tt5651844/).
+[Brad Wright](https://www.imdb.com/name/nm0942249/) is one of the creators of the show [Stargate SG-1](https://www.imdb.com/title/tt0118480) as well as the creator of [Travelers](https://www.imdb.com/title/tt5651844/).
 
 Several similarities exist between the [plot of "Travelers"](https://en.wikipedia.org/wiki/Travelers_(TV_series)#Premise) and u/TheTraveler3649's story
 
@@ -178,15 +184,17 @@ Several similarities exist between the [plot of "Travelers"](https://en.wikipedi
 > Trained using social media and public records concerning their hosts, each traveler must maintain the host's pre-existing life as cover for the rest of their lives, while carrying out missions in teams of five.
 
 Brad Wright's twitter handle is [@bradtravelers](https://twitter.com/bradtravelers) and he once tweeted [this](https://twitter.com/bradtravelers/status/1075842796634890240)
+
 > For those requesting their own traveler number, match the first four letters of your name with the corresponding letters on your telephone keypad. I'm 2723! #WeAreAllTravelers @netflix @TRVLRSseries travelersseason3 #thisideacamefromAshleyParkHiAshley!
 
 to which many replied with "I'm Traveler ----" (four digits follow), including [@netflix](https://twitter.com/netflix/status/1075914899824373760) which replied with
+
 > I'm Traveler 6383
   Welcome to the 21st!
 
 The acount u/TheTraveler3649 was created before the tv series "Travelers" started in 2016, but shows can take years from conception to production so we cannot yet eliminate this lead.
 
-Update: The reddit user [u/nyxschance](https://old.reddit.com/user/nyxschance/) asked Brad Wright whether he was u/TheTraveler3649 on Twitter to which Brad replied ["Nope."](https://twitter.com/InkSphinx/status/1395458681425252352). Case closed?
+Update: [Brad Wright claims he is not u/TheTraveler](https://twitter.com/InkSphinx/status/1395458681425252352), courtesy [u/nyxschance](https://old.reddit.com/user/nyxschance/).
 
 
 ## 3. thetraveler3649.com

@@ -317,3 +317,7 @@ In a series of comments ([1](https://old.reddit.com/user/TheTraveler3649/comment
 > You'll soon ~~be introduced~~ become more familiar with the idea of the [white hole](https://en.wikipedia.org/wiki/White_hole).
 
 The [wikipedia page for whiteholes](https://en.wikipedia.org/wiki/White_hole) is directly referenced.
+
+## 6. Reddit and Bluehosting can uncover u/TheTraveler3649
+
+u/TheTraveler3649 trusts Reddit and Bluehost collectively with (at a minimum) his email, IP address and bank account details. Anybody have connections at Reddit or Bluehost HQ?

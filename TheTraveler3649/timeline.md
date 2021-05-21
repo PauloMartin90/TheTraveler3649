@@ -1,4 +1,4 @@
-# Timeline of [u/TheTraveler3649](https://old.reddit.com/user/TheTraveler3649)
+# Timeline of posts by [u/TheTraveler3649](https://old.reddit.com/user/TheTraveler3649)
 
 - `May 8 2014 03:07:54 UTC` the reddit account [u/TheTraveler3649](https://old.reddit.com/user/TheTraveler3649) is created
 
@@ -15,3 +15,5 @@
 - `May 06 2021 22:43:01 UTC` makes a profile post, ["Let me clarify a few things"](https://old.reddit.com/user/TheTraveler3649/comments/n6jv4i/let_me_clarify_a_few_things/), hereinafter referred to as `Clarification`, this post is last edited on `May 9 2021`
 
 - `May 21 2021 12:50:00 UTC (approximate)` the title and the description of the subreddit r/TrueHistoryOfEarth are changed to "The history of your earth and species." and "This history of Earth and Humanity." (note the error in the description)
+
+- `May 21 2021 16:57:21` posts on ["A brief update on our status."](https://old.reddit.com/r/TrueHistoryOfEarth/comments/nhxau6/a_brief_update_on_our_status/), hereinafter referred to as `Update`

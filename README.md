@@ -4,12 +4,12 @@ This is an ongoing effort to uncover the mystery of u/TheTraveler3649. Feel free
 Our discord sever: https://discord.gg/7WPcv6HPTa
 
 
-# Timeline of u/TheTraveler3649
+# Timeline of [u/TheTraveler3649](https://old.reddit.com/user/TheTraveler3649)
 `May 8 03:07:54 2014 UTC` the reddit account [u/TheTraveler3649](https://old.reddit.com/user/TheTraveler3649) is created.
 
 `May 8 03:22:26 2014 UTC` the subreddit [r/TrueHistoryOfEarth](https://old.reddit.com/r/TrueHistoryOfEarth) is created.
 
-`May 8 02:23:15 2014 UTC` posts and then deletes post on r/TrueHistoryOfEarth, ["How the dinosaurs really went extinct."](http://old.reddit.com/r/TrueHistoryOfEarth/comments/250g53/how_the_dinosaurs_really_went_extinct/).
+`May 8 02:23:15 2014 UTC` posts on r/TrueHistoryOfEarth, ["How the dinosaurs really went extinct."](http://old.reddit.com/r/TrueHistoryOfEarth/comments/250g53/how_the_dinosaurs_really_went_extinct/). This post is quickly deleted.
   
 <details>
 <summary>Reveal post</summary>
@@ -92,7 +92,7 @@ The Inauguration of George Washington
 The Moon Landing
 I look forward to guiding you along this new journey!
 
-(\\) I can't reveal the real name yet.*
+(\) I can't reveal the real name yet.*
 ```
 </details>
 
@@ -134,7 +134,7 @@ Why look back when you can go forward?
 # Current leads
 
 ## 1. Predating scientific publications
-In `Orientation`, u/TheTraveler3649 had said
+In `Orientation`, u/TheTraveler36497 claims
 > Here are just a few of the items on the list for publications coming late this summer:  
   THE EARLY SOL SYSTEM  
   No longer in the shadows: The first true light from your sun  
@@ -149,17 +149,16 @@ In `Orientation`, u/TheTraveler3649 had said
   Neptune: The unintentional water world  
   Uranus: The adopted planet
 
-On the same day, `27 Apr 18:00:01 2021 UTC` a paper titled  ["A diffuse core in Saturn revealed by ring seismology"](https://arxiv.org/abs/2104.13385) is published, covered by a [sciencenews.org article](https://www.sciencenews.org/article/saturn-planet-core-fuzzy-ring-astronomy-space) on May 6.
+On the same day, `27 Apr 18:00:01 2021 UTC` a paper titled  ["A diffuse core in Saturn revealed by ring seismology"](https://arxiv.org/abs/2104.13385) is published, and is covered by a [sciencenews.org article](https://www.sciencenews.org/article/saturn-planet-core-fuzzy-ring-astronomy-space) on `May 6 2021`.
+
 > That core isn’t the lump of rock and ice that many scientists had envisioned, the new study finds. Instead, the core is diffuse, pervaded by huge amounts of hydrogen and helium and so spread out that it spans 70,000 kilometers, or about 60 percent of the planet’s diameter, researchers report April 28 at arXiv.org.
 
-In May, another paper titled  ["Fungi on Mars? Evidence of Growth and Behavior From Sequential Images"](https://www.researchgate.net/publication/351252619_Fungi_on_Mars_Evidence_of_Growth_and_Behavior_From_Sequential_Images) is published.
+In May, a paper titled  ["Fungi on Mars? Evidence of Growth and Behavior From Sequential Images"](https://www.researchgate.net/publication/351252619_Fungi_on_Mars_Evidence_of_Growth_and_Behavior_From_Sequential_Images) is published.
+
 > Fungi thrive in radiation intense environments. Sequential photos document that fungus-like Martian specimens emerge from the soil and increase in size, including those resembling puffballs (Basidiomycota). After obliteration of spherical specimens by the rover wheels, new sphericals--some with stalks--appeared atop the crests of old tracks.
 
 
-## 2. Striking similarities to TV series "Stargate SG-1" and "Travelers"
-[Stargate SG-1 (TV series)](https://www.google.com/search?q=stargate+sg-1+tv+series)
-
-[Travelers (TV series)](https://www.google.com/search?q=travelers+tv+series)
+## 2. Striking similarities to TV series ["Stargate SG-1"](https://www.google.com/search?q=stargate+sg-1+tv+series) and ["Travelers"](https://www.google.com/search?q=travelers+tv+series)
 
 Quoting [this comment](https://old.reddit.com/r/aliens/comments/nfdtkr/im_kinda_baffled_by_traveler3649s_roll_out_plan/gylj8fh/) by [u/dnh52](https://old.reddit.com/user/dnh52)
 
@@ -169,28 +168,36 @@ This is pretty much identical to the plot of Stargate SG-1 season 7 episode 5 wh
 
 [Brad Wright](https://www.imdb.com/name/nm0942249/) is one of the creators of the show [Stargate SG-1](https://www.imdb.com/title/tt0118480). He is also the creator of the show [Travelers](https://www.imdb.com/title/tt5651844/).
 
+Several similarities exist between the [plot of "Travelers"](https://en.wikipedia.org/wiki/Travelers_(TV_series)#Premise) and u/TheTraveler3649's story
+
+> In a post-apocalyptic future, thousands of special operatives are tasked with preventing the collapse of society. These operatives, known as "travelers", have their consciousnesses sent back in time and transferred into the "host" body of present-day individuals who would otherwise be moments from death, to minimize unexpected impact on the time line. 
+
+> Trained using social media and public records concerning their hosts, each traveler must maintain the host's pre-existing life as cover for the rest of their lives, while carrying out missions in teams of five.
+
 Brad Wright's twitter handle is [@bradtravelers](https://twitter.com/bradtravelers) and he once tweeted [this](https://twitter.com/bradtravelers/status/1075842796634890240)
 > For those requesting their own traveler number, match the first four letters of your name with the corresponding letters on your telephone keypad. I'm 2723! #WeAreAllTravelers @netflix @TRVLRSseries travelersseason3 #thisideacamefromAshleyParkHiAshley!
 
-to which many replied with "I'm Traveler ____" (four numbers follow), including [@netflix](https://twitter.com/netflix/status/1075914899824373760)
+to which many replied with "I'm Traveler ----" (four digits follow), including [@netflix](https://twitter.com/netflix/status/1075914899824373760) which replied with
 > I'm Traveler 6383
   Welcome to the 21st!
 
-The reddit acount u/TheTraveler3649 was created before the tv series "Travelers" started in 2016, but shows can take years from conception to production so we cannot yet eliminate this lead.
+The acount u/TheTraveler3649 was created before the tv series "Travelers" started in 2016, but shows can take years from conception to production so we cannot yet eliminate this lead.
+
+Update: The reddit user [u/nyxschance](https://old.reddit.com/user/nyxschance/) asked Brad Wright whether he was u/TheTraveler3649 on Twitter to which Brad replied ["Nope."](https://twitter.com/InkSphinx/status/1395458681425252352). Case closed?
 
 
 ## 3. thetraveler3649.com
-The domain thetraveler3649.com was registered on `April 20 2021`, a day before/on the same day that u/TheTraveler3649 broke silence after 7 years.
+The domain thetraveler3649.com is registered on `April 20 2021`, a day before u/TheTraveler3649 breaks his silence after 7 years.
 
 https://whois.domaintools.com/thetraveler3649.com
 
 https://www.thesiterank.com/stats/?domain=thetraveler3649.com
 
 
-## 4. u/throawaylien's prediction
+## 4. [u/throawaylien](https://old.reddit.com/user/throawaylien)'s prediction
 The throaway account [u/throawaylien](https://old.reddit.com/user/throawaylien) was created on `Nov 20 2013`, a few months before u/TheTraveler3649.
 
-u/throawaylien made [a comment](https://old.reddit.com/r/AskReddit/comments/1r034d/alien_abductees_of_reddit_or_people_who_have/cdikpd2/) talking about experiences with alien abduction.
+u/throawaylien made [a comment](https://old.reddit.com/r/AskReddit/comments/1r034d/alien_abductees_of_reddit_or_people_who_have/cdikpd2/) talking about their experiences with alien abduction.
 
 <details>
 <summary>Reveal post</summary>
@@ -222,7 +229,7 @@ Edit....No more questions. They are not happy with me. Sorry.
 ```
 </details>
   
-u/throawaylien claimed aliens would make contact with earth on either 8th or 18th July 2021
+u/throawaylien claimed aliens would make contact with earth on either `July 8 2021` or `July 18 2021`
 
 > They will make contact with Earth on a wide scale in 2021. That's the year when they'll land here, or colonize, or whatever. I'm not exactly sure what their plan is. They don't seem to be evil or dangerous.
     
@@ -230,8 +237,10 @@ u/throawaylien claimed aliens would make contact with earth on either 8th or 18t
 
 
 ## 5. Transfer of 175 million IP addresses to obscure company
-In `Clarification`, u/TheTraveler3649 had revealed
+An excerpt from `Clarification` by u/TheTraveler3649
 > A large chunk of the Internet is being allocated to allow for access to The Link*. It is there that you will see all the videos and images for the entire history of your planet and solar system. As well as access to the knowledge base for your current evolutionary and technical level. We believe humanity now possesses the capacity to understand its place and context in this galaxy.
+
+meanwhile we have
 
 https://arstechnica.com/information-technology/2021/04/pentagon-explains-odd-transfer-of-175-million-ip-addresses-to-obscure-company/
 > Literally three minutes before Joe Biden became president, a company called Global Resource Systems LLC "discreetly announced to the world's computer networks a startling development: It now was managing a huge unused swath of the Internet that, for several decades, had been owned by the US military
@@ -241,16 +250,14 @@ https://www.washingtonpost.com/technology/2021/04/24/pentagon-internet-address-m
 
 > The entities controlling the largest swaths of the Internet generally are telecommunications giants whose names are familiar: AT&T, China Telecom, Verizon. But now at the top of the list was Global Resource Systems — a company founded only in September that has no publicly reported federal contracts and no obvious public-facing website.
 
-https://bgpview.io/asn/8003
+See also: https://bgpview.io/asn/8003
 
 
 
-## 6. u/TheLink2021
+## 6. [u/TheLink2021](https://old.reddit.com/user/TheLink2021/)
 The reddit account [u/TheLink2021](https://old.reddit.com/user/TheLink2021/) was created on May 13 16:33:23 2021 UTC
 
-It is not clear if this account is genuinely related to u/TheTraveler3649 (probably a larp).
-
-u/TheLink2021's posts include
+It is not clear if this account is genuinely related to u/TheTraveler3649. u/TheLink2021's posts include
 
 > Adam* is not currently on Earth.
 A new and important post is to be published by him the day he returns (June 8th).
@@ -262,24 +269,26 @@ Cheers.
 20210523
 CLARIFICATION: NOT RELATED TO THE EVENT*.
 
-In particular, [one comment](http://old.reddit.com/user/TheLink2021/comments/ngy7fa/adams_return_date_is_june_8th/gytyw64) stood out
+In particular, [one comment](http://old.reddit.com/user/TheLink2021/comments/ngy7fa/adams_return_date_is_june_8th/gytyw64) stands out
+
 > I can share it's Elizondo-related and it's a negative development.
 
 u/TheTraveler3649 never referenced any present day person or country, which makes it unlikely u/TheLink2021 is genuine.
+
 
 # Hard to digest
 
 Information revealed by u/TheTraveler3649 that is possibly at odds with current human understanding and/or hard to accept.
 
 ## 1. Earth has two intelligent species
-In `Orientation`, u/TheTraveler3649 had revealed humans are not the only intelligent species on earth. In `Clarification`, u/TheTraveler3649 further reveals that they may be hiding from humans.
+In `Orientation`, u/TheTraveler3649 claims humans are not the only intelligent species on earth. In `Clarification`, u/TheTraveler3649 further reveals that the Aquatics* may be hiding from humans.
 
 > The Aquatics*: The first intelligent species
 
 > I could sit next to you on a bus, and you'd never know - but that's just me. There are different tiers to The Union\;* though, the "more advanced" a civilization becomes, the more it wants to be left alone. One of you hit the proverbial nail-on-the-head with The Aquatics\*.
 
 
-## 2. Life from venus was brought to earth
+## 2. Life from Venus was brought to the Earth
 In `Orientation`, u/TheTraveler3649's "small list of notable events" includes 
 > The Great Flood: Relocating the Venusian's to Earth
 

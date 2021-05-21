@@ -1,0 +1,3 @@
+- https://old.reddit.com/user/TheTraveler3649
+- https://old.reddit.com/r/TrueHistoryOfEarth/
+- https://camas.github.io/reddit-search/#{%22author%22:%22THEtraveler3649%22,%22searchFor%22:1,%22resultSize%22:100}

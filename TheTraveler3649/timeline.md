@@ -16,4 +16,4 @@
 
 - `May 21 2021 12:50:00 UTC (approximate)` the title and the description of the subreddit r/TrueHistoryOfEarth are changed to "The history of your earth and species." and "This history of Earth and Humanity." (note the error in the description)
 
-- `May 21 2021 16:57:21` posts on ["A brief update on our status."](https://old.reddit.com/r/TrueHistoryOfEarth/comments/nhxau6/a_brief_update_on_our_status/), hereinafter referred to as `Update`
+- `May 21 2021 16:57:21` posts on ["A brief update on our status."](https://old.reddit.com/r/TrueHistoryOfEarth/comments/nhxau6/a_brief_update_on_our_status/), hereinafter referred to as `Brief update`

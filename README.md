@@ -356,7 +356,7 @@ The moderators of r/Exingulis are
 
 Exingulis was an internet mystery that never got closure. [r/Solving_32865](https://old.reddit.com/r/Solving_32865/) was a subreddit created for solving Exingulis.
 
-While almost all original threads on r/Exingulis and related accounts have been deleted, Discord user `smity_smiter#7571` remembers the name `Adam` as being relevant.
+While almost all original threads on r/Exingulis and related accounts have been deleted, Discord user `picoico#3034` remembers the name `Adam` as being relevant.
 
 
 ## Transfer of 175 million IP addresses to obscure company

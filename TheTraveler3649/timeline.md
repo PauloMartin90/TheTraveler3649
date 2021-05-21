@@ -12,6 +12,6 @@
   
 - `April 27 2021 23:31:37 UTC` posts on r/TrueHistoryOfEarth, ["Orientation"](https://old.reddit.com/r/TrueHistoryOfEarth/comments/n01mzm/orientation/), hereinafter referred to as `Orientation`
 
-- `May 06 2021 22:43:01 UTC` makes a self post, ["Let me clarify a few things"](https://old.reddit.com/user/TheTraveler3649/comments/n6jv4i/let_me_clarify_a_few_things/), hereinafter referred to as `Clarification`, this post is last edited on `May 9 2021`
+- `May 06 2021 22:43:01 UTC` makes a profile post, ["Let me clarify a few things"](https://old.reddit.com/user/TheTraveler3649/comments/n6jv4i/let_me_clarify_a_few_things/), hereinafter referred to as `Clarification`, this post is last edited on `May 9 2021`
 
 - `May 21 2021 12:50:00 UTC (approximate)` the title and the description of the subreddit r/TrueHistoryOfEarth are changed to "The history of your earth and species." and "This history of Earth and Humanity." (note the error in the description)

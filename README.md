@@ -1,7 +1,7 @@
 # TheTraveler3649
-This is an ongoing effort to uncover the mystery of u/TheTraveler3649. Feel free to contribute!
+This is an ongoing effort to uncover the mystery of [u/TheTraveler3649](https://old.reddit.com/user/TheTraveler3649). Feel free to contribute!
 
-Our discord sever: https://discord.gg/7WPcv6HPTa
+Our discord server: https://discord.gg/7WPcv6HPTa
 
 
 # Timeline of [u/TheTraveler3649](https://old.reddit.com/user/TheTraveler3649)
@@ -104,7 +104,7 @@ I look forward to guiding you along this new journey!
 
 </details>
 
-`May 06 22:43:01 2021 UTC` makes a self post, ["Let me clarify a few things"](https://old.reddit.com/user/TheTraveler3649/comments/n6jv4i/let_me_clarify_a_few_things/), hereinafter referred to as `Clarification`.
+`May 06 22:43:01 2021 UTC` makes a self post, ["Let me clarify a few things"](https://old.reddit.com/user/TheTraveler3649/comments/n6jv4i/let_me_clarify_a_few_things/), hereinafter referred to as `Clarification`. The post is last edited on `May 9 2021`.
 
 <details>
 <summary>Reveal post</summary>
@@ -168,7 +168,7 @@ In May, a paper titled  ["Fungi on Mars? Evidence of Growth and Behavior From Se
 > Fungi thrive in radiation intense environments. Sequential photos document that fungus-like Martian specimens emerge from the soil and increase in size, including those resembling puffballs (Basidiomycota). After obliteration of spherical specimens by the rover wheels, new sphericals--some with stalks--appeared atop the crests of old tracks.
 
 
-## 2. Striking similarities to TV series ["Stargate SG-1"](https://www.google.com/search?q=stargate+sg-1+tv+series) and ["Travelers"](https://www.google.com/search?q=travelers+tv+series)
+## 2. Similarities to TV series ["Stargate SG-1"](https://www.google.com/search?q=stargate+sg-1+tv+series) and ["Travelers"](https://www.google.com/search?q=travelers+tv+series)
 
 Quoting [a comment](https://old.reddit.com/r/aliens/comments/nfdtkr/im_kinda_baffled_by_traveler3649s_roll_out_plan/gylj8fh/) by [u/dnh52](https://old.reddit.com/user/dnh52)
 
@@ -345,7 +345,21 @@ u/throawaylien claimed aliens would make contact with earth on either `July 8 20
 > The whole "program" or whatever they call it is going to change in July, 2021. I think they said 8th, but it could also have been 18th, I wasn't hearing very well. They weren't trying to intimidate me or even to warn me, so I don't think we have anything to worry about.
 
 
-## 5. Transfer of 175 million IP addresses to obscure company
+## 5. Similarities to [r/Exingulis](https://old.reddit.com/r/Exingulis/)
+
+The subreddit [r/Exingulis](https://old.reddit.com/r/Exingulis/) ([new reddit](https://www.reddit.com/r/Exingulis/)) was created on `May 4 17:49:52 2014 UTC`, **only 4 days before u/TheTraveler3649**.
+
+The moderators of r/Exingulis are
+- [u/58516-11123](https://old.reddit.com/user/58516-11123)
+- [u/233435-21311](https://old.reddit.com/user/233435-21311)
+- [u/Exingulis](https://old.reddit.com/user/Exingulis)
+
+Exingulis was an internet mystery that never got closure. [r/Solving_32865](https://old.reddit.com/r/Solving_32865/) was a subreddit created for solving Exingulis.
+
+While almost all original threads on r/Exingulis and related accounts have been deleted, Discord user `smity_smiter#7571` remembers the name `Adam` as being relevant.
+
+
+## 6. Transfer of 175 million IP addresses to obscure company
 An excerpt from `Clarification` by u/TheTraveler3649
 > A large chunk of the Internet is being allocated to allow for access to The Link*. It is there that you will see all the videos and images for the entire history of your planet and solar system. As well as access to the knowledge base for your current evolutionary and technical level. We believe humanity now possesses the capacity to understand its place and context in this galaxy.
 
@@ -362,21 +376,19 @@ https://www.washingtonpost.com/technology/2021/04/24/pentagon-internet-address-m
 See also: https://bgpview.io/asn/8003
 
 
+## 7. NOAA disclosure rumours about aquatic life
 
-## 6. [u/TheLink2021](https://old.reddit.com/user/TheLink2021/)
+On `Jan 10 22:34:05 2021 UTC` a now deleted reddit post, ["I know someone that works for NOAA. The disclosure rumors are 100% true, and the species in question is aquatic."](https://old.reddit.com/r/conspiracy/comments/kuouoa/i_know_someone_that_works_for_noaa_the_disclosure/) referenced intelligent aquatic life. Recall that u/TheTraveler3649 claimed humans are not the only intelligent species on Earth
+
+> My current job, yes, we still have jobs in The Union*, is to help you get to better know the Earth, its history and the two intelligent species that inhabit it.
+
+> The Aquatics*: The first intelligent species
+
+> I could sit next to you on a bus, and you'd never know - but that's just me. There are different tiers to The Union\;* though, the "more advanced" a civilization becomes, the more it wants to be left alone. One of you hit the proverbial nail-on-the-head with The Aquatics\*.
+
+
+## 8. [u/TheLink2021](https://old.reddit.com/user/TheLink2021/)
 The reddit account [u/TheLink2021](https://old.reddit.com/user/TheLink2021/) was created on `May 13 16:33:23 2021 UTC`.
-
-u/TheLink2021's posts include
-
-> Adam* is not currently on Earth.
-A new and important post is to be published by him the day he returns (June 8th).
-I am a person who works with him and I am responsible for the launch of The Link*.
-Finally, with the approval of Adam* and to strengthen my credibility, I inform you that an important event will take place tomorrow morning (May 21st).
-Cheers.
-
-> Early access code (approved by Adam\*):
-20210523
-CLARIFICATION: NOT RELATED TO THE EVENT*.
 
 In particular, [one comment](http://old.reddit.com/user/TheLink2021/comments/ngy7fa/adams_return_date_is_june_8th/gytyw64) stands out
 
@@ -390,10 +402,10 @@ Reasons to believe u/TheLink2021 is not a genuinely related to u/TheTraveler3649
 
 # Hard to digest
 
-Information revealed by u/TheTraveler3649 that is possibly at odds with current human understanding and/or hard to accept.
+Information revealed by u/TheTraveler3649 that is possibly at odds with current human understanding and/or is hard to accept.
 
 
-## 1. Earth has two intelligent species
+## Earth has two intelligent species
 In `Orientation`, u/TheTraveler3649 claims humans are not the only intelligent species on earth. In `Clarification`, u/TheTraveler3649 further reveals that the Aquatics* may be hiding from humans.
 
 > The Aquatics*: The first intelligent species
@@ -401,31 +413,31 @@ In `Orientation`, u/TheTraveler3649 claims humans are not the only intelligent s
 > I could sit next to you on a bus, and you'd never know - but that's just me. There are different tiers to The Union\;* though, the "more advanced" a civilization becomes, the more it wants to be left alone. One of you hit the proverbial nail-on-the-head with The Aquatics\*.
 
 
-## 2. Life from Venus was brought to the Earth
+## Life from Venus was brought to the Earth
 In `Orientation`, u/TheTraveler3649's "small list of notable events" includes 
 > The Great Flood: Relocating the Venusian's to Earth
 
 
-## 3. Reddit and Bluehosting can uncover u/TheTraveler3649
+## Reddit and Bluehosting can uncover u/TheTraveler3649
 
 u/TheTraveler3649 trusts Reddit and Bluehost collectively with (at a minimum) his email, IP address and bank account details. Anybody have connections at Reddit or Bluehost HQ?
 
 
-## 4. Billions of years in the waiting
+## Billions of years in the waiting
 In `Orientation`, u/TheTraveler3649 reveals that one of the "publications coming late this summer" is
 > No longer in the shadows: The first true light from your sun
 
 which could refer to the birth of our sun. Have they been watching our solar system for billions of years? How did they know intelligent life would arise here?
 
 
-## 5. A volcano launched rocks into sub orbit and caused the mass extinction
+## A volcano launched rocks into sub orbit and caused the mass extinction
 In the now deleted post, u/TheTraveler3649 had revealed
 > The super volcano in your present day Yosemite National Park, mildly erupted. During this eruption, a large chuck of rock was launched into sub-orbit, before crashing down into what would become the Yucatan Peninsula. The water levels were still very low from polar ice, that the rock chuck (Es-189-11-ELE-2322) did not hit water and it on a beach, ejecting dust and water into the atmosphere. 4 years later, combined with the gas cloud and ash from the volcano, the dinosaurs died out.
 
 See also: [Verneshot](https://en.wikipedia.org/wiki/Verneshot)
 
 
-## 6. White holes
+## White holes
 In a series of comments ([1](https://old.reddit.com/user/TheTraveler3649/comments/n6jv4i/let_me_clarify_a_few_things/gxsidpz/), [2](https://old.reddit.com/user/TheTraveler3649/comments/n6jv4i/let_me_clarify_a_few_things/gy1xdvf/)), u/TheTraveler3649 reveals
 > Advanced artificially intelligent camera drones. They use a micro-singularity a (mini-black hole) for data storage, power, and propulsion. They have virtually unlimited data storage capacity.
 

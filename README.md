@@ -10,7 +10,7 @@ This is an ongoing effort to uncover the mystery behind [u/TheTraveler3649](http
   4. [u/throawaylien's prediction](Leads/throawalien.md)
   5. [Similarities to r/Exingulis](Leads/exingulis.md)
   6. [Transfer of 175 million IP addresses to obscure company](Leads/175_mill_ip.md)
-  7. [earthspast.com](Leads/earthspast_com.md)
+  7. ~~[earthspast.com](Leads/earthspast_com.md)~~
 
 - [Points against](TheTraveler3649/points_against.md)
 

@@ -269,12 +269,12 @@ Cheers.
 20210523
 CLARIFICATION: NOT RELATED TO THE EVENT*.
 
-In particular, [one comment](http://old.reddit.com/user/TheLink2021/comments/ngy7fa/adams_return_date_is_june_8th/gytyw64) stands out for mentioning a present day person
+In particular, [one comment](http://old.reddit.com/user/TheLink2021/comments/ngy7fa/adams_return_date_is_june_8th/gytyw64) stands out
 
 > I can share it's Elizondo-related and it's a negative development.
 
 Reasons to believe u/TheLink2021 is not a genuinely related to u/TheTraveler3649
-- u/TheTraveler3649 never referenced present day people or countried, unlike u/TheLink2021 who referenced Elizondo
+- u/TheTraveler3649 never referenced present day people, events or countries, unlike u/TheLink2021 who referenced Elizondo
 - u/TheLink2021's posts contain formatting errors
 - Activity on u/TheTraveler3649 takes place between `22:00` and `04:00 UTC` while u/TheLink2021 was created outside this time window.
 

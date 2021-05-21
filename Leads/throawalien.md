@@ -1,5 +1,5 @@
 ## [u/throawaylien](https://old.reddit.com/user/throawaylien)'s prediction
-The throaway account [u/throawaylien](https://old.reddit.com/user/throawaylien) was created on `Nov 20 2013`, a few months before u/TheTraveler3649.
+The throaway account [u/throawaylien](https://old.reddit.com/user/throawaylien) was created on `Nov 20 2013 04:11:36 UTC`, a few months before u/TheTraveler3649 was created.
 
 u/throawaylien made [a comment](https://old.reddit.com/r/AskReddit/comments/1r034d/alien_abductees_of_reddit_or_people_who_have/cdikpd2/) on the same day, talking about their experiences with alien abduction
   

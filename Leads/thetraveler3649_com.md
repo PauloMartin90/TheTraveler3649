@@ -1,5 +1,5 @@
 # thetraveler3649.com
-Domain thetraveler3649.com was registered on `April 20 2021`, one day before Adam* broke his 7 year long silence.
+Domain thetraveler3649.com was registered on `April 20 2021`, one day before u/TheTraveler3649 broke his 7 year long silence.
 
 https://whois.domaintools.com/thetraveler3649.com
 

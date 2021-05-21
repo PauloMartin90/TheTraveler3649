@@ -1,4 +1,4 @@
-# TheTraveler3649
+# Solving u/TheTraveler3649
 This is an ongoing effort to uncover the mystery behind [u/TheTraveler3649](https://old.reddit.com/user/TheTraveler3649).
 
 - [Timeline of activity on u/TheTraveler3649](TheTraveler3649/timeline.md)
@@ -14,4 +14,4 @@ This is an ongoing effort to uncover the mystery behind [u/TheTraveler3649](http
 
 - [Points against](TheTraveler3649/points_against.md)
 
-Our discord server: https://discord.gg/7WPcv6HPTa
+Discord server: https://discord.gg/7WPcv6HPTa

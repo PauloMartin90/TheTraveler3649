@@ -143,7 +143,7 @@ Why look back when you can go forward?
 
 # Current leads
 
-## 1. Predating scientific publications
+## Predating scientific publications
 In `Orientation`, u/TheTraveler36497 claims
 > Here are just a few of the items on the list for publications coming late this summer:  
   THE EARLY SOL SYSTEM  
@@ -168,7 +168,7 @@ In May, a paper titled  ["Fungi on Mars? Evidence of Growth and Behavior From Se
 > Fungi thrive in radiation intense environments. Sequential photos document that fungus-like Martian specimens emerge from the soil and increase in size, including those resembling puffballs (Basidiomycota). After obliteration of spherical specimens by the rover wheels, new sphericals--some with stalks--appeared atop the crests of old tracks.
 
 
-## 2. Similarities to TV series ["Stargate SG-1"](https://www.google.com/search?q=stargate+sg-1+tv+series) and ["Travelers"](https://www.google.com/search?q=travelers+tv+series)
+## Similarities to TV series ["Stargate SG-1"](https://www.google.com/search?q=stargate+sg-1+tv+series) and ["Travelers"](https://www.google.com/search?q=travelers+tv+series)
 
 Quoting [a comment](https://old.reddit.com/r/aliens/comments/nfdtkr/im_kinda_baffled_by_traveler3649s_roll_out_plan/gylj8fh/) by [u/dnh52](https://old.reddit.com/user/dnh52)
 
@@ -197,7 +197,7 @@ The acount u/TheTraveler3649 was created before the tv series "Travelers" starte
 Update: [Brad Wright claims he is not u/TheTraveler](https://twitter.com/InkSphinx/status/1395458681425252352), courtesy [u/nyxschance](https://old.reddit.com/user/nyxschance/).
 
 
-## 3. thetraveler3649.com
+## thetraveler3649.com
 The domain thetraveler3649.com is registered on `April 20 2021`, a day before u/TheTraveler3649 breaks his silence after 7 years.
 
 https://whois.domaintools.com/thetraveler3649.com
@@ -302,7 +302,7 @@ Links 7   (Internal: 0, Outbound: 0)
 https://www.thesiterank.com/stats/?domain=thetraveler3649.com
 
 
-## 4. [u/throawaylien](https://old.reddit.com/user/throawaylien)'s prediction
+## [u/throawaylien](https://old.reddit.com/user/throawaylien)'s prediction
 The throaway account [u/throawaylien](https://old.reddit.com/user/throawaylien) was created on `Nov 20 2013`, a few months before u/TheTraveler3649.
 
 u/throawaylien made [a comment](https://old.reddit.com/r/AskReddit/comments/1r034d/alien_abductees_of_reddit_or_people_who_have/cdikpd2/) talking about their experiences with alien abduction.
@@ -345,7 +345,7 @@ u/throawaylien claimed aliens would make contact with earth on either `July 8 20
 > The whole "program" or whatever they call it is going to change in July, 2021. I think they said 8th, but it could also have been 18th, I wasn't hearing very well. They weren't trying to intimidate me or even to warn me, so I don't think we have anything to worry about.
 
 
-## 5. Similarities to [r/Exingulis](https://old.reddit.com/r/Exingulis/)
+## Similarities to [r/Exingulis](https://old.reddit.com/r/Exingulis/)
 
 The subreddit [r/Exingulis](https://old.reddit.com/r/Exingulis/) ([new reddit](https://www.reddit.com/r/Exingulis/)) was created on `May 4 17:49:52 2014 UTC`, **only 4 days before u/TheTraveler3649**.
 
@@ -359,7 +359,7 @@ Exingulis was an internet mystery that never got closure. [r/Solving_32865](http
 While almost all original threads on r/Exingulis and related accounts have been deleted, Discord user `smity_smiter#7571` remembers the name `Adam` as being relevant.
 
 
-## 6. Transfer of 175 million IP addresses to obscure company
+## Transfer of 175 million IP addresses to obscure company
 An excerpt from `Clarification` by u/TheTraveler3649
 > A large chunk of the Internet is being allocated to allow for access to The Link*. It is there that you will see all the videos and images for the entire history of your planet and solar system. As well as access to the knowledge base for your current evolutionary and technical level. We believe humanity now possesses the capacity to understand its place and context in this galaxy.
 
@@ -376,9 +376,9 @@ https://www.washingtonpost.com/technology/2021/04/24/pentagon-internet-address-m
 See also: https://bgpview.io/asn/8003
 
 
-## 7. NOAA disclosure rumours about aquatic life
+## NOAA disclosure rumours about aquatic life
 
-On `Jan 10 22:34:05 2021 UTC` a now deleted reddit post, ["I know someone that works for NOAA. The disclosure rumors are 100% true, and the species in question is aquatic."](https://old.reddit.com/r/conspiracy/comments/kuouoa/i_know_someone_that_works_for_noaa_the_disclosure/) referenced intelligent aquatic life. Recall that u/TheTraveler3649 claimed humans are not the only intelligent species on Earth
+On `Jan 10 22:34:05 2021 UTC` a now deleted reddit post, ["I know someone that works for NOAA. The disclosure rumors are 100% true, and the species in question is aquatic."](https://old.reddit.com/r/conspiracy/comments/kuouoa/i_know_someone_that_works_for_noaa_the_disclosure/) ([archive](https://web.archive.org/web/20210112133539if_/https://www.reddit.com/r/conspiracy/comments/kuouoa/i_know_someone_that_works_for_noaa_the_disclosure/)) referenced intelligent aquatic life. Recall that u/TheTraveler3649 claimed humans are not the only intelligent species on Earth
 
 > My current job, yes, we still have jobs in The Union*, is to help you get to better know the Earth, its history and the two intelligent species that inhabit it.
 
@@ -387,7 +387,7 @@ On `Jan 10 22:34:05 2021 UTC` a now deleted reddit post, ["I know someone that w
 > I could sit next to you on a bus, and you'd never know - but that's just me. There are different tiers to The Union\;* though, the "more advanced" a civilization becomes, the more it wants to be left alone. One of you hit the proverbial nail-on-the-head with The Aquatics\*.
 
 
-## 8. [u/TheLink2021](https://old.reddit.com/user/TheLink2021/)
+## [u/TheLink2021](https://old.reddit.com/user/TheLink2021/)
 The reddit account [u/TheLink2021](https://old.reddit.com/user/TheLink2021/) was created on `May 13 16:33:23 2021 UTC`.
 
 In particular, [one comment](http://old.reddit.com/user/TheLink2021/comments/ngy7fa/adams_return_date_is_june_8th/gytyw64) stands out
